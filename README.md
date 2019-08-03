@@ -8,6 +8,6 @@
 <h2>Como usar?</h2></br>
 <p><b>1-</b> Conectar o whatsapp web no navegador</p> <p><b>2-</b> Abrir o <i>console</i> (ctrl + F12)</p> <p><b>3-</b> Copiar e colar o código <i>bot00.js</i></p>
 
-<b>Próximas alterações:</b></br>
+<h2>Próximas alterações</h2>
 1- Armazenar e repassar áudios.</br>
 2- Armazenar e repassar imagens.
