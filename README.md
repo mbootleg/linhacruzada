@@ -1,7 +1,4 @@
-<h1>-l-i-n-h-a-c-r-u-z-a-d-a-</h1>
-<i>Uma vez transformada em ondas eletromagnéticas, a voz pode viajar por cabos telefônicos e se sobrepor a outras, seguindo juntas em uma mensagem que chega até o receptor embaralhada, confusa. 
-Quando nossas falas são traduzidas nos bits que viajam pela internet, como elas se sobrepõem, embaralham e confundem?</i>
-</br></br></br>
+<h1>-l-i-n-h-a-s-c-r-u-z-a-d-a-s-</h1>
 
 <h2>Sobre</h2>
 </br>
